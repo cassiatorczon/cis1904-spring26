@@ -4,8 +4,9 @@ import Test.HUnit (Test (TestList), runTestTT, (~?=))
 
 {-
 Exercise 0: Uncomment the code below by removing the two hyphens.
-It should give you a type error, e.g. a red underline under + with an error message
-that appears when you hover. Comment out the code again when you've confirmed.
+It should give you a type error, e.g. a red underline under 1 with an error
+message that appears when you hover. Comment out the code again when you've
+confirmed.
 -}
 -- foo = 1 + "hello"
 
